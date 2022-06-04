@@ -10,6 +10,7 @@ choco install oh-my-posh
 Ex. ~/oh-my-posh-themes/robbyrussel.min.omp.json
 
 ## Add this line in powershel profile
+Import-Module posh-git  
 oh-my-posh init pwsh --config ~/oh-my-posh-themes/robbyrussel.min.omp.json | Invoke-Expression
 
 ## Configure font
