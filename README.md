@@ -1,7 +1,9 @@
 # oh-my-posh
 
-## Run this 
+## Install poshgit
 choco install poshgit
+
+## Install oh-my-posh
 choco install oh-my-posh
 
 ## Save theme file
