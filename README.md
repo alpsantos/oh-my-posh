@@ -1,5 +1,3 @@
-# oh-my-posh
-
 ## Install poshgit and oh-my-posh
 choco install poshgit  
 choco install oh-my-posh
