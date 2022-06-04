@@ -11,3 +11,9 @@ oh-my-posh init pwsh --config ~/oh-my-posh-themes/robbyrussel.min.omp.json | Inv
 
 ## Configure font
 Install Literation Mono Nerd Font and set this as default in Poweshell
+
+
+dd
+d
+d
+d
