@@ -16,10 +16,4 @@ Install Literation Mono Nerd Font and set this as default in Poweshell
 dd
 d
 d
-d
-dd dd
-
-f
-f
-f
-f
+dddd
